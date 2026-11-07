@@ -6,8 +6,8 @@ export default function SiteFooter() {
     <footer className="site-footer">
       <div className="shell footer-top">
         <div className="footer-brand">
-          <a className="logo footer-logo" href="/" aria-label="Webnibo home">
-            <Image src="/logo.png" alt="Webnibo" width={2172} height={724} />
+          <a className="logo footer-logo" href="/" aria-label="Webkyro home">
+            <Image src="/logo.png" alt="Webkyro" width={2316} height={630} />
           </a>
           <p>Everyday pieces for tiny people<br />with big personalities.</p>
         </div>
@@ -41,11 +41,11 @@ export default function SiteFooter() {
         </div>
       </div>
       <div className="shell footer-bottom">
-        <span>© 2026 Webnibo</span>
+        <span>© 2026 Webkyro</span>
         <span>Made for little lives</span>
         <div className="socials">
-          <a href="#" aria-label="Instagram: @webnibo_demo">Instagram · @webnibo_demo</a>
-          <a href="#" aria-label="Facebook: @webnibo_demo">Facebook · @webnibo_demo</a>
+          <a href="#" aria-label="Instagram: @webkyro_demo">Instagram · @webkyro_demo</a>
+          <a href="#" aria-label="Facebook: @webkyro_demo">Facebook · @webkyro_demo</a>
         </div>
       </div>
     </footer>

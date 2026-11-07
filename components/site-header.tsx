@@ -37,8 +37,8 @@ export default function SiteHeader({ variant = 'catalog', cartCount = 0, onCartC
       >
         {menuOpen ? <X size={21} /> : <Menu size={21} />}
       </button>
-      <a className="logo" href="/" aria-label="Webnibo home">
-        <Image src="/logo.png" alt="Webnibo" width={2172} height={724} priority={variant !== 'product'} />
+      <a className="logo" href="/" aria-label="Webkyro home">
+        <Image src="/logo.png" alt="Webkyro" width={2316} height={630} priority={variant !== 'product'} />
       </a>
       <nav className={`main-nav ${menuOpen ? 'open' : ''}`} aria-label="Main navigation">
         <a href="/">Home</a>

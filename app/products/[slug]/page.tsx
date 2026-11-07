@@ -32,7 +32,7 @@ export default function ProductPage() {
           <div className="product-thumbnails"><button className="thumbnail active"><img src={product.image} alt="Front view" /></button><button className="thumbnail"><img src={product.image} alt="Detail view" /></button><button className="thumbnail"><img src={product.image} alt="Fabric view" /></button></div>
         </div>
         <div className="product-purchase">
-          <p className="eyebrow">Webnibo winter edit</p>
+          <p className="eyebrow">Webkyro winter edit</p>
           <h1>{product.name}</h1>
           <div className="product-rating"><span>★★★★★</span><u> 12 reviews</u></div>
           <p className="detail-price">{product.price}</p>

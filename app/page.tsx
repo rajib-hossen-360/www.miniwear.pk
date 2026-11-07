@@ -19,7 +19,7 @@ const collectionCards = [
 
 const testimonials = [
   { quote: '“Soft, playful and beautifully made. The quality is even better in person.”', name: 'Ayesha K.' },
-  { quote: '“Webnibo makes getting dressed for school a little more fun every morning.”', name: 'Maha R.' },
+  { quote: '“Webkyro makes getting dressed for school a little more fun every morning.”', name: 'Maha R.' },
   { quote: '“The loveliest colours and the sweetest packaging. We will be back.”', name: 'Sara N.' },
   { quote: '“The fabric feels gentle and comfortable, and my little one loves the colours.”', name: 'Hira A.' },
   { quote: '“A lovely fit and such a cheerful design. We are very happy with our order.”', name: 'Noor F.' },
